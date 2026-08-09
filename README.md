@@ -6,6 +6,8 @@ scrolling combat text, speed/coords panel, elytra status, and waypoints.
 **License:** MIT (jars include the license text). Source is not published;
 this repository holds docs, changelog, issues, and release downloads only.
 
+![Center HUD in combat](media/hud-desert-night.png)
+
 ## Supported Minecraft
 
 | Minecraft | Java | Loader |
