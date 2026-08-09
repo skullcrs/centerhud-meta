@@ -1,0 +1,3 @@
+﻿# Ignore local tooling if any is added later
+.DS_Store
+Thumbs.db
