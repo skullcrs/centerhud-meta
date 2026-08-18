@@ -24,13 +24,13 @@ Open **Mod Menu → Center HUD** (or edit `config/centerhud.json`).
 
 ## Supported versions
 
-`26.2` · `26.1.2` (also `26.1` / `26.1.1`) · `1.21.11` · `1.21.1`
+`26.2`, `26.1.2` (also `26.1` / `26.1.1`), `1.21.11`, `1.21.1`
 
 Pick the jar that matches your game version.
 
 ## Links
 
-- [Changelog & GitHub downloads](https://github.com/skullcrs/centerhud-meta)  
+- [Changelog and downloads](https://github.com/skullcrs/centerhud-meta)  
 - [Issues](https://github.com/skullcrs/centerhud-meta/issues)  
 
-MIT license. Client-only.
+MIT license. Client-only. Source is not published.
